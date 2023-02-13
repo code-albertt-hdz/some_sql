@@ -1,1 +1,1 @@
-# Somethings querys to backup.
+# Some querys for support.
