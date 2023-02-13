@@ -1,1 +1,1 @@
-# Some querys for support.
+# Some queries for support.
